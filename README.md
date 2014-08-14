@@ -3,7 +3,7 @@ ulticontroller-case
 
 A wodden lasercut case for the Ulticontroller
 
-![top](images/top.jpg)
+![front](images/ulticontroller-front.jpg)
 
 Build Instructions
 ------------------
@@ -28,8 +28,8 @@ BOM:
 Visicut color-mapping
 ---------------------
 
-If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under 
-![visicut/ulticontroller-case.xml](visicut/ulticontroller-case.xml)
+If you use Visicut (https://github.com/t-oster/VisiCut) you can find a color-mapping under 
+![https://github.com/fau-fablab/visicut-settings](https://github.com/fau-fablab/visicut-settings)
 
 License
 -------
