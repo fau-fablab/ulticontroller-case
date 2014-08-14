@@ -11,8 +11,8 @@ Build Instructions
 ![ulticontroller-case](images/ulticontroller-case.png)
 
     green:	vector engraving
-    black:	raster engraving
     red:	cut
+    (blue:  notes and reference lines)
 
 Be carefull with the bending positions!
 
