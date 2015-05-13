@@ -8,7 +8,7 @@ TODO: image
 Build Instructions
 ------------------
 
-![ulticontroller-case](ulticontroller-case.svg)
+Lasercut ulticontroller-case.svg
 
     red:	cut
     (blue:  notes and reference lines)
@@ -18,8 +18,7 @@ BOM:
 ----
 
 - 4mm HDF or something similar
--  M3 x ??? screws
-- M3 screw nuts
+- wood glue (Holzleim)
 
 Visicut color-mapping
 ---------------------
