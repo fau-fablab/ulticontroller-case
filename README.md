@@ -3,12 +3,12 @@ ulticontroller-case
 
 A wodden lasercut case for the Ulticontroller
 
-TODO: image
+![Preview](ulticontroller-case.jpg)
 
 Build Instructions
 ------------------
 
-Lasercut ulticontroller-case.svg
+Lasercut [ulticontroller-case.svg](ulticontroller-case.svg)
 
     red:	cut
     (blue:  notes and reference lines)
